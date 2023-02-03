@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW02",
+            "request": "launch",
+            "mainClass": "HW02",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab01_1_630510582",
+            "request": "launch",
+            "mainClass": "lab01_1_630510582.Lab01_1_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab01_2_630510582",
+            "request": "launch",
+            "mainClass": "lab01_2_630510582.Lab01_2_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab01_3_630510582",
+            "request": "launch",
+            "mainClass": "lab01_3_630510582.Lab01_3_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab01_4_630510582",
+            "request": "launch",
+            "mainClass": "lab01_4_630510582.Lab01_4_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab02_1_630510582",
+            "request": "launch",
+            "mainClass": "lab02_1_630510582.Lab02_1_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab02_2_630510582",
+            "request": "launch",
+            "mainClass": "lab02_2_630510582.Lab02_2_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab02_3_630510582",
+            "request": "launch",
+            "mainClass": "lab02_3_630510582.Lab02_3_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab03_1_630510582",
+            "request": "launch",
+            "mainClass": "lab03_1_630510582.Lab03_1_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab03_2_630510582",
+            "request": "launch",
+            "mainClass": "lab03_2_630510582.Lab03_2_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab03_3_630510582",
+            "request": "launch",
+            "mainClass": "lab03_3_630510582.Lab03_3_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab04_1_630510582",
+            "request": "launch",
+            "mainClass": "lab04_1_630510582.Lab04_1_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab04_2_630510582",
+            "request": "launch",
+            "mainClass": "lab04_2_630510582.Lab04_2_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab04_3_630510582",
+            "request": "launch",
+            "mainClass": "lab04_3_630510582.Lab04_3_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab05_1_630510582",
+            "request": "launch",
+            "mainClass": "lab05_1_630510582.Lab05_1_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab05_2_630510582",
+            "request": "launch",
+            "mainClass": "lab05_2_630510582.Lab05_2_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab05_3_630510582",
+            "request": "launch",
+            "mainClass": "lab05_3_630510582.Lab05_3_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab06_1_630510582",
+            "request": "launch",
+            "mainClass": "lab06_1_630510582.Lab06_1_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab06_2_630510582",
+            "request": "launch",
+            "mainClass": "lab06_2_630510582.Lab06_2_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab06_3_630510582",
+            "request": "launch",
+            "mainClass": "lab06_3_630510582.Lab06_3_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab07_1_630510582",
+            "request": "launch",
+            "mainClass": "lab07_1_630510582.Lab07_1_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab07_2_630510582",
+            "request": "launch",
+            "mainClass": "lab07_2_630510582.Lab07_2_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab08_1_630510582",
+            "request": "launch",
+            "mainClass": "lab08_1_630510582.Lab08_1_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab09_1_630510582",
+            "request": "launch",
+            "mainClass": "lab09_1_630510582.Lab09_1_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab10_1_630510582",
+            "request": "launch",
+            "mainClass": "lab10_1_630510582.Lab10_1_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab10_2_630510582",
+            "request": "launch",
+            "mainClass": "lab10_2_630510582.Lab10_2_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab11_1_630510582",
+            "request": "launch",
+            "mainClass": "lab11_1_630510582.Lab11_1_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab11_2_630510582",
+            "request": "launch",
+            "mainClass": "lab11_2_630510582.Lab11_2_630510582",
+            "projectName": "Coding-by-Java_9760793e"
+        }
+    ]
+}
